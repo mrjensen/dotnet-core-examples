@@ -1,4 +1,9 @@
 
+# 2-web-empty
+2-web-empty/EmptyWebApplication/out
+2-web-empty/EmptyWebApplication/obj
+2-web-empty/EmptyWebApplication/bin
+
 # Created by https://www.gitignore.io/api/cs,csharp,visualstudiocode,visualstudio
 
 #!! ERROR: cs is undefined. Use list command to see defined gitignore types !!#
